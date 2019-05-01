@@ -1,14 +1,14 @@
 package = "LuaKiwis"
-version = "1.0-0"
+version = "1.0-1"
 source = {
-	url = "..."
+	url = "git://github.com/jmurillom/luarocksExample",
 }
 description = {
 	summary = "A helloworld lua",
 	detailed = [[
 		Example of helloworld for Lua
 	]],
-	homepage = "http://...",
+	homepage = "https://github.com/JMurilloM/luarocksExample",
 	license = "MIT"
 }
 dependencies = {
